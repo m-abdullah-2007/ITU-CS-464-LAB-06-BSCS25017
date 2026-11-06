@@ -9,7 +9,7 @@ A 5-level arena game built Enemies, Obstacles & Power-ups. The player is a rolli
 | # | Scene | Name | Objective | Main threats | Timer | Lives | Power-ups |
 |---|---|---|---|---|---|---|---|
 | 1 | `Level01` | Warm-Up Yard | Collect 8 coins | 1 slow patrolling guard, 3 spike strips | none | 3 | speed |
-| 2 | `Level02` | Spike Run | Reach the goal before time runs out | 3 crushers, 6 spike strips | 40 s | 3 | speed |
+| 2 | `Level02` | Spike Run | Reach the goal before time runs out | 3 crushers, 6 spike strips | 30 s | 3 | speed |
 | 3 | `Level03` | Guard House | Collect 10 coins without getting caught | 2 guards that patrol and chase | none | 3 | shield |
 | 4 | `Level04` | Crusher Grid | Survive until the timer ends (coins are bonus) | 9 crushers firing in a wave, spike ring | 40 s | 3 | shield, magnet (appear mid-run) |
 | 5 | `Level05` | The Gauntlet | Collect 12 coins to unlock the exit, then reach it | 2 fast guards, crusher bridge over spikes, chaser waves | 90 s | 2 | shield, speed |
