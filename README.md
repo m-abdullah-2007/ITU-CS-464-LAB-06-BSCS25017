@@ -26,7 +26,7 @@ A 5-level arena game built Enemies, Obstacles & Power-ups. The player is a rolli
 
 - **Guards:** 1 slow guard, none, 2 chasing guards, none, 2 faster chasing guards.
 - **Crushers:** none, 3, none, 9, 3.
-- **Timer:** none, 40 s, none, 40 s, 90 s.
+- **Timer:** none, 30 s, none, 40 s, 90 s.
 - **Lives:** 3, 3, 3, 3, 2.
 - **Objective type:** collect, race, evade, survive, then collect-and-escape.
 
